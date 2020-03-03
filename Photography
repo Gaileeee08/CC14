@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Gail's Photography</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	<div class="Main">
+		
+			<ul class="navbar">
+					
+					<li><a href="#"></a> Home </li>
+					<li><a href="#"></a> About </li>
+					<li><a href="#"></a> Films </li>
+					<li><a href="#"></a> Contact </li>
+				
+
+			</ul>
+			
+
+		</div>
+
+</div>
+</body>
+</html>
